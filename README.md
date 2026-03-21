@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Viet Anh 👋</h1>
-<h3 align="center">Computer Science student @ Saarland University · Full-Stack & Systems enthusiast</h3>
+<h3 align="center">Computer Science student @ Saarland University </h3>
 
 <br/>
 
 ## About Me
 
 - 🎓 Studying **B.Sc. Computer Science** at Saarland University, Germany (graduating Oct 2027)
-- 🔨 I build full-stack web apps, compilers, and simulations
+- 🔨 I build full-stack web apps
 - 🌍 Based in Saarbrücken, Germany | Vietnamese 🇻🇳
-- 💬 Happy to talk about: **Java, backend architecture, Docker, or anything compiler-related**
+- 💬 Happy to talk about: **Java, backend architecture
 - 📫 Reach me at: [vietanhtu2003@gmail.com](mailto:vietanhtu2003@gmail.com)
 
 <br/>
@@ -40,47 +40,7 @@
 
 <br/>
 
-## 🚀 Featured Projects
 
-### 📝 [Blog Manager](https://github.com/vietanh123123)
-> **JavaScript · HTML/CSS · Java · PostgreSQL · Docker**
-
-A full-stack blogging platform built from scratch — including a **custom Java HTTP server** with manual routing and centralized error handling, secured with **JWT (HS256)**, **HttpOnly cookies**, and **BCrypt** for multi-tenant authentication. Deployed via **Docker on Railway**.
-
----
-
-### 🌾 Organic Farming Simulation
-> **Kotlin · Gradle · Mockito · JaCoCo · Detekt**
-
-A large-scale simulation synchronizing dynamic state: shifting weather, multi-stage plant life-cycles, and environmental events. Built in a team of 4 using **SOLID principles**, OOP design patterns, and rigorous testing with **Mockito** and **JaCoCo**.
-
----
-
-### ⚙️ TinyC Compiler
-> **Java · RISC-V**
-
-A complete compiler for the TinyC language — featuring a **lexer, parser, AST, and semantic checker** in the front-end, plus a **RISC-V assembly code generator** in the back-end. Written entirely in Java.
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vietanh123123&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietanh123123&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
-<br/>
-
-## 🌐 Languages
-
-| Language   | Level  |
-|------------|--------|
-| Vietnamese | Native |
-| English    | B2     |
-| German     | B2     |
-
-<br/>
 
 ---
 

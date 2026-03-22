@@ -7,7 +7,7 @@
 
 - 🎓 Studying **B.Sc. Computer Science** at Saarland University, Germany (graduating Oct 2027)
 - 🔨 I build full-stack web apps
-- 🌍 Based in Saarbrücken, Germany | Vietnamese 🇻🇳
+- 🌍 Based in Saarbrücken, Germany
 - 💬 Happy to talk about: **Java, backend architecture
 - 📫 Reach me at: [vietanhtu2003@gmail.com](mailto:vietanhtu2003@gmail.com)
 

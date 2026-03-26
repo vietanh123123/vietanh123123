@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🎓 Studying **B.Sc. Computer Science** at Saarland University, Germany (graduating Oct 2027)
+- 🎓 Studying **B.Sc. Computer Science** at Saarland University, Germany
 - 🔨 I build full-stack web apps
 - 🌍 Based in Saarbrücken, Germany
 - 💬 Happy to talk about: **Java, backend architecture
